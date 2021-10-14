@@ -1,0 +1,17 @@
+[
+    {
+        "firstName": "Agilizei",
+        "lastName": "Bootcamp",
+        "adress": "Sem endereço",
+        "emailAdress": "test@mail.com",
+        "radioGender": "n",
+        "checks": [
+            "Netflix",
+            "Dormir"
+        ],
+        "selectCountries": "Dinamarca",
+        "selectYears": "2006",
+        "selectMonths": "Janeiro",
+        "pwd": "Aluno@2021"
+    }
+]
