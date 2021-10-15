@@ -28,7 +28,7 @@ jobs:
         node-version: 12.x
  
     - run: npm install
-    - run: npm run cy:run
+    - run: npm run cypress:run
       continue-on-error: true
     
     - run: npm run report:merge
